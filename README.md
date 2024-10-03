@@ -1,2 +1,2 @@
 # trustpositif
-A parody of Kominfo's site blocking interface
+Just a parody of Kominfo's site blocking interface
